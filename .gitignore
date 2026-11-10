@@ -1,0 +1,14 @@
+# Environments and Dependencies
+venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# Local Database
+sql_app.db
+
+# Environment variables (for the next phase)
+.env
+
+# Frontend build output
+frontend/dist/
